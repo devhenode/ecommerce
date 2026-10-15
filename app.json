@@ -34,6 +34,14 @@
           "backgroundColor": "#2f8f61",
           "resizeMode": "contain"
         }
+      ],
+      [
+        "expo-build-properties",
+        {
+          "ios": {
+            "enableSceneSupport": true
+          }
+        }
       ]
     ]
   }

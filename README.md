@@ -4,6 +4,21 @@ A buyer-facing e-commerce app — browse products, manage a cart, and check out.
 
 This first build uses **local mock data** (no backend) and a **stubbed payment flow** (full UI, simulated success/failure — no real Paystack calls). See [the project plan](../.claude/plans) for the full scope and rationale.
 
+## Screenshots
+
+<table>
+  <tr>
+    <td align="center"><img src="assets/screens/Screenshot%20iPhone%2018%20Pro%2014-10-2026%20at%2010.32.48.png" width="220" alt="Onboarding screen" /><br /><sub>Onboarding</sub></td>
+    <td align="center"><img src="assets/screens/Screenshot%20iPhone%2018%20Pro%2014-10-2026%20at%2010.33.08.png" width="220" alt="Home screen with categories and popular products" /><br /><sub>Home</sub></td>
+    <td align="center"><img src="assets/screens/Screenshot%20iPhone%2018%20Pro%2014-10-2026%20at%2010.33.11.png" width="220" alt="Home screen scrolled through the product grid" /><br /><sub>Home: product grid</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/screens/Screenshot%20iPhone%2018%20Pro%2014-10-2026%20at%2010.33.15.png" width="220" alt="Search results list" /><br /><sub>Search</sub></td>
+    <td align="center"><img src="assets/screens/Screenshot%20iPhone%2018%20Pro%2014-10-2026%20at%2010.34.18.png" width="220" alt="Cart with coupon field and order summary" /><br /><sub>Cart</sub></td>
+    <td align="center"><img src="assets/screens/Screenshot%20iPhone%2018%20Pro%2014-10-2026%20at%2010.34.11.png" width="220" alt="Account screen with order history" /><br /><sub>Account &amp; orders</sub></td>
+  </tr>
+</table>
+
 ## Requirements
 
 - Node.js 18+
